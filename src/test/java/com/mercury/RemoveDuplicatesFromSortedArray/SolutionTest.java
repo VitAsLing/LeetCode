@@ -1,4 +1,4 @@
-package com.mercury.RemoveDuplicatesfromSortedArray;
+package com.mercury.RemoveDuplicatesFromSortedArray;
 
 import org.junit.jupiter.api.Test;
 

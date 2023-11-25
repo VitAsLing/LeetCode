@@ -1,5 +1,9 @@
-package com.mercury.RemoveDuplicatesfromSortedArray;
+package com.mercury.RemoveDuplicatesFromSortedArray;
 
+/**
+ * 26. Remove Duplicates from Sorted Array
+ * @link <a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150">Remove Duplicates from Sorted Array</a>
+ */
 public class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
