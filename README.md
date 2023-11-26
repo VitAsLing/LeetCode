@@ -1,0 +1,1 @@
+This is a repository for recording daily LeetCode practice.
