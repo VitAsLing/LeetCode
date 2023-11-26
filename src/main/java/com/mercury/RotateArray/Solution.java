@@ -3,7 +3,7 @@ package com.mercury.RotateArray;
 /**
  * 189. Rotate Array
  *
- * @link <a href="https://leetcode.cn/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150">Rotate Array</a>
+ * @link <a href="https://leetcode.cn/problems/rotate-array">Rotate Array</a>
  */
 public class Solution {
 

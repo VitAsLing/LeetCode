@@ -2,7 +2,7 @@ package com.mercury.RemoveDuplicatesFromSortedArrayII;
 
 /**
  * 80. Remove Duplicates from Sorted Array II
- * @link <a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150">Remove Duplicates from Sorted Array II</a>
+ * @link <a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii">Remove Duplicates from Sorted Array II</a>
  */
 public class Solution {
 

@@ -2,7 +2,7 @@ package com.mercury.RemoveElement;
 
 /**
  * 27. Remove Element
- * @link <a href="https://leetcode.cn/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150">Remove Element</a>
+ * @link <a href="https://leetcode.cn/problems/remove-element">Remove Element</a>
  */
 public class Solution {
 
