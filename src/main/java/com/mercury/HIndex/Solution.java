@@ -1,5 +1,11 @@
 package com.mercury.HIndex;
 
+
+/**
+ * 274. H-Index
+ *
+ * @link <a href="https://leetcode.cn/problems/h-index/">H-Index</a>
+ */
 public class Solution {
 
     public int hIndex(int[] citations) {
