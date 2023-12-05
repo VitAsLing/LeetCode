@@ -10,6 +10,7 @@ public class SolutionTest {
     public void testLongestCommonPrefix() {
         Solution solution = new Solution();
 
+
         // 测试用例 1: 有公共前缀的字符串数组
         assertEquals("fl", solution.longestCommonPrefix(new String[]{"flower", "flow", "flight"}),
                 "Failed for array with a common prefix");
