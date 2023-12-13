@@ -1,4 +1,4 @@
-package com.mercury.threeSum;
+package com.mercury.ThreeSum;
 
 import java.util.ArrayList;
 import java.util.Arrays;
